@@ -1,0 +1,10 @@
+---
+title: "Análisis monitoreo acústico"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Primero se trabajó con la base de datos de sonido ubicada en la web de Rstudio.com **data**. El script de esta prueba está en **Prueba_clasif_keras.R** en donde se practico con la identificación de distintas palabras dichas por distintas personas. Para la trasnformación de Furier se trabaja con las propiedades de los audios, por lo tanto esto debe ser considerado para cuando se realice con aves.
